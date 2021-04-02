@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rejo</h1>
+<h1 align="center">Hi 👋, Rejo here!</h1>
 
 <h3 align="center">Principal Architect @Stratforge</h3>
 
