@@ -25,6 +25,25 @@
   /></a>
 </p>
 
+<br/>
+<div style="display: inline-flex;">
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=tokyonight_duo"
+    alt="rejochandran"
+  />
+ <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=rejochandran&show_icons=true&bg_color=0D1117&theme=tokyonight"
+    alt="rejochandran"
+  />
+  
+</div>
+<img
+  src="https://activity-graph.herokuapp.com/graph?username=rejochandran&theme=react-dark"
+  alt="rejochandran"
+/>
+
 <h3 align="left">My tech wall</h3>
 <div style="display: flex">
   <img
@@ -198,20 +217,4 @@
   />
 </div>
 <br/><br/>
-<div style="display: inline-flex;">
-  <img
-    width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=tokyonight_duo"
-    alt="rejochandran"
-  />
- <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=rejochandran&show_icons=true&bg_color=0D1117&theme=tokyonight"
-    alt="rejochandran"
-  />
-  
-</div>
-<img
-  src="https://activity-graph.herokuapp.com/graph?username=rejochandran&theme=react-dark"
-  alt="rejochandran"
-/>
+
