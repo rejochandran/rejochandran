@@ -21,7 +21,7 @@
   
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div style="display:flex">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
+</div>
   <h3 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=highcontrast" alt="rejochandran" /></h3>
 <div style="text-align:center">
 
