@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, Rejo here!</h1>
 
 <h3 align="center">Principal Architect @Stratforge</h3>
-
+<h4 align="center"><i>Praise be to the Lord my Rock,
+    who trains my hands for war,
+ my fingers for battle. <span style="font-size:0.5em;">Psalm 144:1</span></i></h4>
 <p align="center">
  
 </p>
