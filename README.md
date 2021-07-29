@@ -3,11 +3,7 @@
 <h3 align="center">Principal Architect @Stratforge</h3>
 
 <p align="center">
-  <a href="https://twitter.com/rejochandran" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/rejochandran?logo=twitter&style=for-the-badge"
-      alt="rejochandran"
-  /></a>
+ 
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,11 +13,12 @@
     <img
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
     />
-    <img src="https://stackoverflow-badge.vercel.app/?userID=2799454" />
+<!--     <img src="https://stackoverflow-badge.vercel.app/?userID=2799454" /> -->
   </a>
-  <a href="https://twitter.com/rejochandran">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  <a href="https://twitter.com/rejochandran" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/rejochandran?logo=twitter&style=for-the-badge"
+      alt="rejochandran"
   /></a>
 </p>
 
