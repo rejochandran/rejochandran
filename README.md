@@ -8,21 +8,6 @@
  
 </p>
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://stackoverflow.com/users/2799454">
-    <img
-      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-    />
-<!--     <img src="https://stackoverflow-badge.vercel.app/?userID=2799454" /> -->
-  </a>
-  <a href="https://twitter.com/rejochandran" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/rejochandran?logo=twitter&style=for-the-badge"
-      alt="rejochandran"
-  /></a>
-</p>
 
 <br/>
 <div style="display: inline-flex;">
@@ -215,5 +200,19 @@
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
   />
 </div>
-<br/><br/>
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/2799454">
+    <img
+      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    />
+<!--     <img src="https://stackoverflow-badge.vercel.app/?userID=2799454" /> -->
+  </a>
+  <a href="https://twitter.com/rejochandran" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/rejochandran?logo=twitter&style=for-the-badge"
+      alt="rejochandran"
+  /></a>
+</p>
 
