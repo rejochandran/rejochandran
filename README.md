@@ -13,7 +13,7 @@
 <div style="display: inline-flex;">
   <img
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=tokyonight_duo&hide_border=true&stroke=0D1117"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=tokyonight_duo&hide_border=true&stroke=31353a&background=0D1117"
     alt="rejochandran"
   />
  <img
