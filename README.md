@@ -28,18 +28,18 @@
 <div style="display: inline-flex;">
   <img
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=tokyonight_duo"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rejochandran&theme=tokyonight_duo&hide_border=true&stroke=0D1117"
     alt="rejochandran"
   />
  <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=rejochandran&show_icons=true&bg_color=0D1117&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=rejochandran&show_icons=true&bg_color=0D1117&theme=tokyonight&hide_border=true"
     alt="rejochandran"
   />
   
 </div>
 <img
-  src="https://activity-graph.herokuapp.com/graph?username=rejochandran&theme=react-dark"
+  src="https://activity-graph.herokuapp.com/graph?username=rejochandran&theme=react-dark&hide_border=true"
   alt="rejochandran"
 />
 
